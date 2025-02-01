@@ -1,4 +1,4 @@
-# BizCardX-Extracting-Business-Card-Data-
+# BizCardX-Extracting-Business-Card-Data
 
 Technologies Used : Python, easy OCR, Streamlit, SQL, Pandas
 
